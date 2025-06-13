@@ -160,3 +160,5 @@ docker-compose.override.yml
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+.roo/mcp.json
